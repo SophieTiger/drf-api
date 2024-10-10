@@ -37,6 +37,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-sophietiger-drfapi-1gxh1z7lzxy.ws.codeinstitute-ide.net']
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://8000-sophietiger-drfapi-1gxh1z7lzxy.ws.codeinstitute-ide.net'
+]
 
 # Application definition
 
