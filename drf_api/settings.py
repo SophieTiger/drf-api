@@ -63,7 +63,7 @@ DEBUG = 'DEV' in os.environ
 
 ALLOWED_HOSTS = [
     '8000-sophietiger-drfapi-1gxh1z7lzxy.ws.codeinstitute-ide.net',
-    'codestar100.herokuapp.com'
+    'codestar100-1ca13721cbe6.herokuapp.com'
     ]
 
 CSRF_TRUSTED_ORIGINS = [
